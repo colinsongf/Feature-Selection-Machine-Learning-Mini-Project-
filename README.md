@@ -12,6 +12,15 @@ Contains the .py files for Udacity's Feature Selection Machine Learning Mini Pro
 * **find_signture.py**
   _A .py file that creates training and testing sets, creates the classifier, evaluates the accuracy of model and identifies the most predictive feature. 
 
+
+* **from_chris.txt**
+  _A text document required for running vectorixe_text.py_
+
+* **from_sara.txt**
+  _A text document required for running vectorixe_text.py_
+
+**Running these files requirees the Enron email dataset - a link to this can be found in the details below**
+
 *  _All other necessary files can be found at the Udacity github account found here:_ https://github.com/udacity/ud120-projects
 
 *  _Instructions on how to get started are found here:_ https://www.udacity.com/course/viewer#!/c-ud120/l-2254358555/m-2959448580   
