@@ -1,5 +1,5 @@
 # Feature-Selection-Machine-Learning-Mini-Project-
-Contains the .py files for Udacity's Feature Selection Machine Learning Mini Project on the Enron email dataset
+Contains the .py files & .txt files for Udacity's Feature Selection Machine Learning Mini Project on the Enron email dataset
 
 # Contents
 
@@ -12,9 +12,14 @@ Contains the .py files for Udacity's Feature Selection Machine Learning Mini Pro
 * **find_signture.py**
   _A .py file that creates training and testing sets, creates the classifier, evaluates the accuracy of model and identifies the most predictive feature. 
 
+* **from_chris.txt**
+   _A text document required for running vectorixe_text.py_
+ 
+* **from_sara.txt**
+   _A text document required for running vectorixe_text.py_
+ 
 
-
-**Running these files require the Enron email dataset - a link to this can be found in the details below**
+**Running these files requires the Enron email dataset - a link to this can be found in the details below**
 
 *  _All other necessary files can be found at the Udacity github account found here:_ https://github.com/udacity/ud120-projects
 
