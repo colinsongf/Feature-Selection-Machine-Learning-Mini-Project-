@@ -13,11 +13,6 @@ Contains the .py files for Udacity's Feature Selection Machine Learning Mini Pro
   _A .py file that creates training and testing sets, creates the classifier, evaluates the accuracy of model and identifies the most predictive feature. 
 
 
-* **from_chris.txt**
-  _A text document required for running vectorixe_text.py_
-
-* **from_sara.txt**
-  _A text document required for running vectorixe_text.py_
 
 **Running these files requirees the Enron email dataset - a link to this can be found in the details below**
 
