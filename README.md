@@ -14,7 +14,7 @@ Contains the .py files for Udacity's Feature Selection Machine Learning Mini Pro
 
 
 
-**Running these files requirees the Enron email dataset - a link to this can be found in the details below**
+**Running these files require the Enron email dataset - a link to this can be found in the details below**
 
 *  _All other necessary files can be found at the Udacity github account found here:_ https://github.com/udacity/ud120-projects
 
